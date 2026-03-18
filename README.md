@@ -14,7 +14,6 @@
 ---
 
 ## À propos
-z
 Ce repo contient le code source de mon portfolio personnel, conçu pour refléter mon identité professionnelle en tant que Data Analyst spécialisée dans la **transformation de données complexes en décisions business**.
 
 **3 ans d'expérience** dans les secteurs bancaire et industriel.
